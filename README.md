@@ -3,10 +3,11 @@
 ## About Me
 I'm currently pursuing my Master's in Computer Applications (MCA) and have recently developed a keen interest in coding. My passion lies in learning and exploring new technologies, and I'm actively working on enhancing my skills in the following areas:
 
-- **Web3 Development**: Learning about blockchain technologies and the decentralized web.
-- **Front-end Technologies**: Strengthening my skills in HTML, CSS, and JavaScript to create dynamic and responsive web pages.
+
 
 ## What I'm Learning
+
+- **Front-end Technologies**: Strengthening my skills in HTML, CSS, and JavaScript to create dynamic and responsive web pages.
 - **MERN Stack**: Building full-stack applications using MongoDB, Express.js, React, and Node.js.
 
 ## How to Reach Me
